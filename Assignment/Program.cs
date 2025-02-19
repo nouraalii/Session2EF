@@ -82,5 +82,6 @@ namespace Assignment
             //Console.WriteLine($"Student {student1.FName} study course {course1.Name}"); 
             #endregion
         }
+
     }
 }
